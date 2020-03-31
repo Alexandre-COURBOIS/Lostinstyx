@@ -1,4 +1,4 @@
-# MyNursery - Documentation.
+MyNursery - Documentation.
 
 ## Link to main project
 https://github.com/Alexandre-COURBOIS/mynursery.git
