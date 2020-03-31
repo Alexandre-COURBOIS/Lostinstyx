@@ -49,3 +49,5 @@ Everything we used about wordpress :
 We used for our localisation map : 
 - https://docs.mapbox.com/mapbox-gl-js/api/
 
+                                        
+                                              All right reserved ©MyNursery
