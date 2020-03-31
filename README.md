@@ -27,9 +27,9 @@ A directory Database with our Database Plan :
 - You will find here a database plan. 
 
 Languages used : 
-- HTML
-- CSS
-- PHP
+- HTML5
+- CSS 3 
+- PHP 7.4
 - JavaScript
 
 To build HTML and responsive we used : 
