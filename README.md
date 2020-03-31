@@ -5,6 +5,6 @@ https://github.com/Alexandre-COURBOIS/mynursery.git
                                                               
                                                             Documentation
                                                             
-Hi there is, all the documentation about MyNursery project, what we used to build it, our database plan.
+Hi there is, all the documentation about MyNursery project, what we used to build it, our database plan, and other plan like this.
                                                         
 
