@@ -26,15 +26,17 @@ There is now what we used espacially to build it :
 A directory Database with our Database Plan :
 - You will find here a database plan. 
 
+
 Languages used : 
-- HTML
-- CSS
-- PHP
+- HTML5
+- CSS 3 
+- PHP 7.4
 - JavaScript
+
 
 To build HTML and responsive we used : 
 - https://getbootstrap.com/docs/4.3/getting-started/download/
-- 
+
 
 Everything we used about wordpress : 
 - https://underscores.me/ (To initialize a empty theme)
@@ -47,13 +49,5 @@ Everything we used about wordpress :
 We used for our localisation map : 
 - https://docs.mapbox.com/mapbox-gl-js/api/
 
-
-
-
-
-
-
-
-
-                                                        
-
+                                        
+                                              All right reserved ©MyNursery
